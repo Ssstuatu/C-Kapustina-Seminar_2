@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\bin\Debug\net6.0\Задача_23.exe
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\bin\Debug\net6.0\Задача_23.deps.json
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\bin\Debug\net6.0\Задача_23.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\bin\Debug\net6.0\Задача_23.dll
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\bin\Debug\net6.0\Задача_23.pdb
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.dll
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\refint\Задача_23.dll
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.pdb
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\Задача_23.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains Разработчик\Знакомство с языками программирования С#. Домашнее задание 3\Задача_23\obj\Debug\net6.0\ref\Задача_23.dll
